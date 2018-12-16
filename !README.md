@@ -13,4 +13,4 @@
 | [نقشه آفلاین](http://nbx.ir/)‎ | [لینک](https://play.google.com/store/apps/details?id=ir.nbx.maps&rdid=ir.nbx.maps) | ناقض کپی رایت | ۲.۰ | ۳۱ مرداد ۹۷ | ۲۵ آذر ۹۷ | به هیچ شکلی نامی از OpenStreetMap برده نشده. |
 | نقشه مشهد آفلاین‎ | [لینک](https://play.google.com/store/apps/details?id=ir.tatcomputer.mashhadoffline&rdid=ir.tatcomputer.mashhadoffline) | ناقض کپی رایت | ۷.۴ | ۲۷ فروردین ۹۷ | ۲۵ آذر ۹۷ | به هیچ شکلی نامی از OpenStreetMap برده نشده. |
 | نقشه کامل ایران| [لینک](https://play.google.com/store/apps/details?id=ir.tatcomputer.iranofflineaio&rdid=ir.tatcomputer.iranofflineaio) | ناقض کپی رایت | ۱.۰ | ۱۱ آذر ۹۷ | ۲۵ آذر ۹۷ | به هیچ شکلی نامی از OpenStreetMap برده نشده. |
-- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
+- ![#c5f015(test)
