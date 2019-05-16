@@ -9,6 +9,7 @@
 
 # ترجمه نشده
 </div>
+
 - [ ] [Vandalism](https://wiki.openstreetmap.org/wiki/Vandalism)
 - [ ] [Getting Involved](https://wiki.openstreetmap.org/wiki/Getting_Involved)
 - [ ] [Map Features](https://wiki.openstreetmap.org/wiki/Map_Features)
@@ -18,6 +19,7 @@
 
 # ترجمه ناقص
 </div>
+
 - [ ] [برخی استانداردها و قواعد ویرایش نقشه](https://wiki.openstreetmap.org/wiki/Fa:Editing_Standards_and_Conventions) 
 
 
