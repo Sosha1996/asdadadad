@@ -3,7 +3,7 @@
 # wiki-trans-wishlist
 لیست صفحات ویکی که کاربران درخواست ترجمه‌ی آن‌ها را دارند به‌همراه وضعیت ترجمه
 
-</div> 
+
 
 # ترجمه نشده
 - [ ] [Vandalism](https://wiki.openstreetmap.org/wiki/Vandalism)
@@ -17,3 +17,4 @@
 
 # ترجمه شده
 - [x] [Any tags you like](https://wiki.openstreetmap.org/wiki/Fa:Any_tags_you_like)
+</div> 
